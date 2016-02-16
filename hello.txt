@@ -1,5 +1,2 @@
 Hello world
-
-Again
-
-adding
+deleting
